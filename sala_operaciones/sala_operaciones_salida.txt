@@ -1,22 +1,7 @@
-20 -- procedimientos
-720 -- tiempo de uso
+5 -- procedimientos
+1440 -- tiempo de uso
 Proc1
-Proc4
-Proc3
-Proc6
 Proc2
-Proc8
+Proc3
+Proc4
 Proc5
-Proc7
-Proc9
-Proc10
-Proc11
-Proc12
-Proc13
-Proc14
-Proc15
-Proc16
-Proc17
-Proc18
-Proc19
-Proc20

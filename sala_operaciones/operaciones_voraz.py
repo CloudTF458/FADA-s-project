@@ -11,7 +11,7 @@ import numpy as np;
 import math;
 import time;
 
-input = open("./sala_operaciones_entrada6.txt");
+input = open("./sala_operaciones_entrada1.txt");
 content = input.readlines();
 
 """
