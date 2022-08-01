@@ -1,7 +1,9 @@
-3 6
+7 8
 lib1 10
 lib2 10
 lib3 10
 lib4 10
 lib5 10
+lib6 10
+lib6 10
 lib6 10
